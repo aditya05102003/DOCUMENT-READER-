@@ -109,3 +109,14 @@ fastapi[all]
 # ==============================
 jupyter
 ipykernel
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-text-splitters
+langchain-mistralai
+langchain-core
+langchain-chroma
+chromadb
+pypdf
+mistralai
