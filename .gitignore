@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+env/
+
+# Environment Variables
+.env
+
+# Streamlit
+.streamlit/
+
+# Chroma DB
+chroma_db/
+
+# Uploaded PDFs
+uploaded_docs/
+
+# OS Files
+.DS_Store
+Thumbs.db

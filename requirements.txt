@@ -1,0 +1,111 @@
+# ==============================
+# Core LLM & RAG Frameworks
+# ==============================
+langchain
+langchain-community
+langchain-core
+langchain-text-splitters
+langsmith
+
+# ==============================
+# Mistral AI
+# ==============================
+mistralai
+
+# ==============================
+# Vector Database
+# ==============================
+faiss-cpu
+chromadb
+
+# ==============================
+# Embedding Models
+# ==============================
+sentence-transformers
+transformers
+torch
+
+# ==============================
+# Document Loaders & Parsing
+# ==============================
+pypdf
+pdfplumber
+pymupdf
+python-docx
+unstructured
+beautifulsoup4
+lxml
+
+# ==============================
+# Data Handling
+# ==============================
+numpy
+pandas
+
+# ==============================
+# API & Backend
+# ==============================
+fastapi
+uvicorn
+python-multipart
+
+# ==============================
+# Environment Variables
+# ==============================
+python-dotenv
+
+# ==============================
+# Database (Optional)
+# ==============================
+sqlalchemy
+
+# ==============================
+# Tokenization
+# ==============================
+tiktoken
+
+# ==============================
+# HTTP Requests
+# ==============================
+requests
+httpx
+
+# ==============================
+# UI (Choose One)
+# ==============================
+streamlit
+# gradio
+
+# ==============================
+# Logging & Utilities
+# ==============================
+loguru
+tqdm
+
+# ==============================
+# OCR (Optional for scanned PDFs/images)
+# ==============================
+pytesseract
+Pillow
+
+# ==============================
+# Reranking (Optional but Recommended)
+# ==============================
+rank-bm25
+
+# ==============================
+# Async Support
+# ==============================
+aiofiles
+asyncio
+
+# ==============================
+# CORS Support
+# ==============================
+fastapi[all]
+
+# ==============================
+# Jupyter (Optional)
+# ==============================
+jupyter
+ipykernel
